@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    bbox-sizing: border-box;
+}
+
+body {
+    font-size: 15pt;
+    background-color: lightcyan;
+}
+.bg{
+    background-color:lightcyan;
+}
